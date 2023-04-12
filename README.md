@@ -11,6 +11,9 @@ Knex.js
 Responsilbities
 Tasked with the following:
 
+Deployed server link:
+https://we-love-movies-gu5i.onrender.com
+
 Build an API following the RESTful design principals
 Installation and usage of common middleware packages
 Writing of database queries to complete CRUD routes in an express server
